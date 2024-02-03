@@ -1,0 +1,126 @@
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\OnlineStore.exe.config
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\OnlineStore.exe
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\OnlineStore.pdb
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\Npgsql.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Buffers.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Collections.Immutable.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Memory.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Text.Encodings.Web.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Text.Json.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Threading.Channels.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.ValueTuple.dll
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\Npgsql.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Buffers.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Collections.Immutable.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Memory.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Text.Encodings.Web.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Text.Json.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Threading.Channels.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\bin\Debug\System.ValueTuple.xml
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\obj\Debug\OnlineStore.csproj.SuggestedBindingRedirects.cache
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\obj\Debug\OnlineStore.Form1.resources
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\obj\Debug\OnlineStore.csproj.CopyComplete
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\obj\Debug\OnlineStore.exe
+D:\Programming\university 6 semestr\RAD systems\Индивидуальная работа\OnlineStore\obj\Debug\OnlineStore.pdb
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\OnlineStore.exe.config
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\OnlineStore.exe
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\OnlineStore.pdb
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\Npgsql.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Buffers.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Collections.Immutable.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Memory.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Numerics.Vectors.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Text.Encodings.Web.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Text.Json.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Threading.Channels.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.ValueTuple.dll
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\Npgsql.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Buffers.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Collections.Immutable.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Memory.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Numerics.Vectors.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Text.Encodings.Web.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Text.Json.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Threading.Channels.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\bin\Debug\System.ValueTuple.xml
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.csproj.SuggestedBindingRedirects.cache
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.Form1.resources
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.csproj.CopyComplete
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.exe
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.pdb
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\OnlineStore.exe.config
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\OnlineStore.exe
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\OnlineStore.pdb
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\Npgsql.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Buffers.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Collections.Immutable.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Memory.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Numerics.Vectors.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Text.Encodings.Web.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Text.Json.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Threading.Channels.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.ValueTuple.dll
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\Npgsql.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Buffers.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Collections.Immutable.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Memory.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Numerics.Vectors.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Text.Encodings.Web.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Text.Json.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Threading.Channels.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\bin\Debug\System.ValueTuple.xml
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\obj\Debug\OnlineStore.csproj.SuggestedBindingRedirects.cache
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\obj\Debug\OnlineStore.Form1.resources
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\obj\Debug\OnlineStore.csproj.CopyComplete
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\obj\Debug\OnlineStore.exe
+D:\Загрузка с браузера\ТПО Добровольская\OnlineStore\obj\Debug\OnlineStore.pdb

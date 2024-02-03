@@ -1,0 +1,8 @@
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\BigMoney.csproj.AssemblyReference.cache
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\BigMoney.csproj.SuggestedBindingRedirects.cache
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\BigMoney.Form1.resources
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\BigMoney.csproj.GenerateResource.cache
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\BigMoney.csproj.CoreCompileInputs.cache
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.exe
+D:\Загрузка с браузера\Отчёт по индивидульному заданию RAD\OnlineStore\obj\Debug\OnlineStore.pdb
