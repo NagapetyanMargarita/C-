@@ -14,7 +14,7 @@ namespace OnlineStore
             string port = "Port=5432;";
             string db = "Database=polyclinic;";
             string user = "Username=postgres;";
-            string pass = "Password=s579utnt;";
+            string pass = "Password=123;";
 
             string conString = string.Format("{0}{1}{2}{3}{4}", host, port, db, user, pass);
 
